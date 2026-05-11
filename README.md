@@ -10,9 +10,9 @@ Based in Var, France · Available for freelance & subcontracting (remote)
 
 ## Projects
 - **[Ink&Pik]([https://inkandpik.com](https://beta.mwdcreativesense.com/))** — Multi-tenant SaaS marketplace for tattoo artists & piercers  
-  `Laravel · Filament v4 · Stripe Connect · PWA · FCM · 300+ tests`
+  `Laravel · Filament v4 · Stripe Connect · PWA · FCM · tests`
 
-- **[Esterel Dental](https://estereldental.com)** — Multilingual institutional site (FR/EN/RU) with custom CMS  
+- **[Esterel Dental](https://estereldental.com)** — Multilingual institutional site (FR/EN) with custom CMS  
   `Laravel · GSAP · Spatie Media Library · Filament`
 
 - **[PCCA Plomberie](https://pcca-plomberie.fr/)** — Local SEO-optimized business site  
