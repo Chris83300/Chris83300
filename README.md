@@ -1,16 +1,25 @@
-## Hi there 👋
+# Christopher Mueller — Fullstack Developer & AI Integrator
 
-<!--
-**Chris83300/Chris83300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Based in Var, France · Available for freelance & subcontracting (remote)
 
-Here are some ideas to get you started:
+## Stack
+**Backend** · Laravel · FastAPI · Python · API REST  
+**Frontend** · TailwindCSS · Alpine.js · Livewire  
+**AI** · LangChain · Ollama · Claude API · Mistral · Whisper · Piper TTS  
+**DevOps** · Docker · GitHub Actions · CI/CD · o2switch  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **[Ink&Pik]([https://inkandpik.com](https://beta.mwdcreativesense.com/))** — Multi-tenant SaaS marketplace for tattoo artists & piercers  
+  `Laravel · Filament v4 · Stripe Connect · PWA · FCM · 300+ tests`
+
+- **[Esterel Dental](https://estereldental.com)** — Multilingual institutional site (FR/EN/RU) with custom CMS  
+  `Laravel · GSAP · Spatie Media Library · Filament`
+
+- **[PCCA Plomberie](https://pcca-plomberie.fr/)** — Local SEO-optimized business site  
+  `Laravel · TailwindCSS · Filament`
+
+## Looking for
+Subcontracting with web agencies · Laravel & AI integration projects
+
+📧 chrismueller314@icloud.com  
+🌐 [mwdcreativesense.com](https://mwdcreativesense.com)
