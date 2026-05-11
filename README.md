@@ -21,5 +21,5 @@ Based in Var, France · Available for freelance & subcontracting (remote)
 ## Looking for
 Subcontracting with web agencies · Laravel & AI integration projects
 
-📧 chrismueller314@icloud.com  
+📧 contact@mwdcreativesense.com  
 🌐 [mwdcreativesense.com](https://mwdcreativesense.com)
